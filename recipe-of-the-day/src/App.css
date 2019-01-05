@@ -1,0 +1,57 @@
+.App{
+    /* border: 1px solid sienna; */
+    padding: 20px;
+    background-color: #054549;
+
+}
+
+.ingredient{
+    /* border: 1px dotted darkcyan; */
+    background-color: #eecf56;
+    padding: 2px;
+    padding-left: 20px;
+    margin: 2px;
+
+}
+
+.indivRecipe{
+    margin: 5px;
+    border: 1px dotted rebeccapurple; 
+    background-color: #0bc7b1;
+    text-align: left;
+    padding: 5px;
+    /* list-style: none; */
+}
+.indivRecipe ul{
+    list-style-type: none;
+}
+
+.recipeOfTheDay{
+    /* border: 1px double goldenrod; */
+    background-color: #0bc7b1;
+    margin: 10px auto;
+    padding-bottom: 10px;
+}
+.allIngredients{
+    padding: 10px;
+
+    /* border: 1px solid salmon; */
+}
+.headerR{
+    /* border: 1px solid darkmagenta; */
+    background-color: #f25652;
+    text-align: center;
+    padding: 5px
+
+
+}
+
+.recipes{
+    /* border: 1px solid skyblue; */
+    background-color: #f25652;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    
+
+}
